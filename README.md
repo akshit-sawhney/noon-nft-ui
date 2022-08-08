@@ -1,19 +1,16 @@
 # Noon-nft-ui
 React app to search NFTs for a user
 
-# Install
+## Install
+```
+npm install
+```
 
-
-# Run
+## Run
 ```
 npm start
 ```
-
 In case u face problem...
+```
 export NODE_OPTIONS=--openssl-legacy-provider
-
-# Screenshot
-
-
-
-
+```
